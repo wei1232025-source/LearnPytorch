@@ -1,6 +1,5 @@
 # 从零开始实现线性回归模型
 
-import random
 import torch
 
 
